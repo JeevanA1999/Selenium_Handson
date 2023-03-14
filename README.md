@@ -1,7 +1,7 @@
 # Selenium_Handson
 
 Selenium WebDriver Assignment 1:
-Step 1:
+Step 1:    
 Launch Shop Tools QA application https://shop.demoqa.com/ User must be able to launch the shop tools application
 Step 2:
 Click on "My Account" link on top right corner of home page My Account page should be displayed with Login and 
